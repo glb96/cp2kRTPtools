@@ -1,0 +1,12 @@
+
+ Real time propagation step:                1
+  Projection on the MO number 4 from the reference file H2O_projection_1-RESTART.wfn
+  For each TD MOs required is printed: Population & Phase [rad] 
+      0.10000000E+01  0.74670759E-02
+      0.11442798E-30  0.11102906E+00
+
+ Real time propagation step:                2
+  Projection on the MO number 4 from the reference file H2O_projection_1-RESTART.wfn
+  For each TD MOs required is printed: Population & Phase [rad] 
+      0.10000000E+01  0.14934152E-01
+      0.11767631E-30  0.21948557E+00

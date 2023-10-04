@@ -1,0 +1,1275 @@
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.77575754E-09 Y= -0.77579366E-09 Z= -0.75982238E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.77771390E-08         XZ= -0.37991119E+00
+                YY= -0.10203168E+02         YZ= -0.37991119E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.00000000E+00 Y=  0.00000000E+00 Z=  0.00000000E+00   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.72378304E-24         XZ= -0.44408921E-15
+                YY=  0.14196565E+01         YZ=  0.24424907E-14         ZZ=  0.14196565E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.00000000E+00 Y=  0.00000000E+00 Z=  0.00000000E+00   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.00000000E+00         XY=  0.00000000E+00         XZ=  0.00000000E+00
+                YY=  0.00000000E+00         YZ=  0.00000000E+00         ZZ=  0.00000000E+00
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.78077827E-09 Y= -0.78077827E-09 Z= -0.75982237E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.78009934E-08         XZ= -0.37991119E+00
+                YY= -0.10203168E+02         YZ= -0.37991119E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.80210856E-11 Y=  0.80208391E-11 Z= -0.20968463E-09   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.15157419E-09         XZ= -0.19134426E-08
+                YY=  0.14196565E+01         YZ= -0.19134438E-08         ZZ=  0.14196565E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.29667298E-13 Y=  0.29645739E-13 Z=  0.86355528E-11   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.17443646E-12         XY=  0.56042729E-12         XZ=  0.81905178E-10
+                YY= -0.17484366E-12         YZ=  0.81904952E-10         ZZ=  0.18403498E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.81379231E-09 Y= -0.81382843E-09 Z= -0.75982234E-01   Total=     0.07598223
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.79630808E-08         XZ= -0.37991118E+00
+                YY= -0.10203168E+02         YZ= -0.37991118E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.14811435E-10 Y=  0.14810968E-10 Z= -0.10123955E-08   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.27989110E-09         XZ= -0.94404886E-08
+                YY=  0.14196565E+01         YZ= -0.94404922E-08         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.59090066E-13 Y=  0.59047585E-13 Z=  0.12384984E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.14062311E-13         XY=  0.11162396E-11         XZ=  0.11764062E-09
+                YY= -0.14864833E-13         YZ=  0.11764018E-09         ZZ=  0.26594188E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.85518627E-09 Y= -0.85522239E-09 Z= -0.75982230E-01   Total=     0.07598223
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.81661489E-08         XZ= -0.37991116E+00
+                YY= -0.10203168E+02         YZ= -0.37991116E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.19376500E-10 Y=  0.19375869E-10 Z= -0.27502525E-08   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.36615675E-09         XZ= -0.25822042E-07
+                YY=  0.14196565E+01         YZ= -0.25822046E-07         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.87950852E-13 Y=  0.87888301E-13 Z=  0.76483933E-11   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.72022859E-12         XY=  0.16614401E-11         XZ=  0.73188880E-10
+                YY=  0.71904681E-12         YZ=  0.73188224E-10         ZZ=  0.17046679E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.87758091E-09 Y= -0.87754479E-09 Z= -0.75982226E-01   Total=     0.07598223
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.82725761E-08         XZ= -0.37991113E+00
+                YY= -0.10203168E+02         YZ= -0.37991113E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.21110049E-10 Y=  0.21109328E-10 Z= -0.53829748E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.39891520E-09         XZ= -0.50682589E-07
+                YY=  0.14196565E+01         YZ= -0.50682594E-07         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.11597684E-12 Y=  0.11589427E-12 Z= -0.71838111E-11   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.21121562E-11         XY=  0.21908657E-11         XZ= -0.66661366E-10
+                YY=  0.21105961E-11         YZ= -0.66662232E-10         ZZ= -0.13606634E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.85590868E-09 Y= -0.85594480E-09 Z= -0.75982222E-01   Total=     0.07598222
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.81600324E-08         XZ= -0.37991112E+00
+                YY= -0.10203168E+02         YZ= -0.37991112E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.19908002E-10 Y=  0.19907271E-10 Z= -0.84638662E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.37619968E-09         XZ= -0.79802329E-07
+                YY=  0.14196565E+01         YZ= -0.79802337E-07         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.14290446E-12 Y=  0.14280361E-12 Z= -0.31368676E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.40622194E-11         XY=  0.26995515E-11         XZ= -0.29489299E-09
+                YY=  0.40603142E-11         YZ= -0.29489404E-09         ZZ= -0.63818690E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.78034483E-09 Y= -0.78034483E-09 Z= -0.75982220E-01   Total=     0.07598222
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.77771390E-08         XZ= -0.37991111E+00
+                YY= -0.10203168E+02         YZ= -0.37991111E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.16182893E-10 Y=  0.16182234E-10 Z= -0.11231622E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.30580598E-09         XZ= -0.10598452E-06
+                YY=  0.14196565E+01         YZ= -0.10598453E-06         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.16848945E-12 Y=  0.16837385E-12 Z= -0.61854068E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.62927446E-11         XY=  0.31828988E-11         XZ= -0.58267007E-09
+                YY=  0.62905607E-11         YZ= -0.58267128E-09         ZZ= -0.12721805E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.65833016E-09 Y= -0.65829404E-09 Z= -0.75982220E-01   Total=     0.07598222
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.71639591E-08         XZ= -0.37991110E+00
+                YY= -0.10203168E+02         YZ= -0.37991110E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.10784762E-10 Y=  0.10784242E-10 Z= -0.12798675E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.20379737E-09         XZ= -0.12083575E-06
+                YY=  0.14196565E+01         YZ= -0.12083576E-06         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.19252213E-12 Y=  0.19239315E-12 Z= -0.93709832E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.83851269E-11         XY=  0.36369245E-11         XZ= -0.88341159E-09
+                YY=  0.83826903E-11         YZ= -0.88341294E-09         ZZ= -0.19350911E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.51608808E-09 Y= -0.51616032E-09 Z= -0.75982222E-01   Total=     0.07598222
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.64516919E-08         XZ= -0.37991112E+00
+                YY= -0.10203168E+02         YZ= -0.37991112E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.48432367E-11 Y=  0.48428952E-11 Z= -0.12392146E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.91520465E-10         XZ= -0.11704389E-06
+                YY=  0.14196565E+01         YZ= -0.11704389E-06         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.21483468E-12 Y=  0.21469399E-12 Z= -0.12088248E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.98436115E-11         XY=  0.40584601E-11         XZ= -0.11399221E-08
+                YY=  0.98409539E-11         YZ= -0.11399236E-08         ZZ= -0.25004803E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.39475970E-09 Y= -0.39479582E-09 Z= -0.75982227E-01   Total=     0.07598223
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.58449344E-08         XZ= -0.37991114E+00
+                YY= -0.10203168E+02         YZ= -0.37991114E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.43994570E-12 Y= -0.44009284E-12 Z= -0.95886124E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.83154012E-11         XZ= -0.90598103E-07
+                YY=  0.14196565E+01         YZ= -0.90598104E-07         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.23531192E-12 Y=  0.23516342E-12 Z= -0.13715415E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.10175947E-10         XY=  0.44453504E-11         XZ= -0.12934527E-08
+                YY=  0.10173142E-10         YZ= -0.12934542E-08         ZZ= -0.28384555E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.33671424E-09 Y= -0.33671424E-09 Z= -0.75982233E-01   Total=     0.07598223
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.55553177E-08         XZ= -0.37991117E+00
+                YY= -0.10203168E+02         YZ= -0.37991117E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.40098500E-11 Y= -0.40098106E-11 Z= -0.44828090E-08   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.75775073E-10         XZ= -0.42384667E-07
+                YY=  0.14196565E+01         YZ= -0.42384667E-07         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.25391007E-12 Y=  0.25375626E-12 Z= -0.13715429E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.89781626E-11         XY=  0.47967546E-11         XZ= -0.12932592E-08
+                YY=  0.89752577E-11         YZ= -0.12932608E-08         ZZ= -0.28367997E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.37489349E-09 Y= -0.37492961E-09 Z= -0.75982239E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.57476819E-08         XZ= -0.37991120E+00
+                YY= -0.10203168E+02         YZ= -0.37991120E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.51486966E-11 Y= -0.51485226E-11 Z=  0.22566127E-08   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.97294909E-10         XZ=  0.21284593E-07
+                YY=  0.14196565E+01         YZ=  0.21284594E-07         ZZ=  0.14196565E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.27065972E-12 Y=  0.27050220E-12 Z= -0.11726067E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.60094567E-11         XY=  0.51132423E-11         XZ= -0.11051163E-08
+                YY=  0.60064821E-11         YZ= -0.11051180E-08         ZZ= -0.24197929E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.52056701E-09 Y= -0.52063925E-09 Z= -0.75982246E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.64779929E-08         XZ= -0.37991124E+00
+                YY= -0.10203168E+02         YZ= -0.37991124E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.36031570E-11 Y= -0.36029257E-11 Z=  0.94666116E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.68087922E-10         XZ=  0.89422653E-07
+                YY=  0.14196565E+01         YZ=  0.89422652E-07         ZZ=  0.14196566E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.28566633E-12 Y=  0.28550801E-12 Z= -0.76244721E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.12448700E-11         XY=  0.53968186E-11         XZ= -0.71741472E-09
+                YY=  0.12418807E-11         YZ= -0.71741638E-09         ZZ= -0.15616959E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.75628865E-09 Y= -0.75621641E-09 Z= -0.75982252E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.76566438E-08         XZ= -0.37991126E+00
+                YY= -0.10203168E+02         YZ= -0.37991126E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.37409287E-12 Y=  0.37430695E-12 Z=  0.15696165E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.70710364E-11         XZ=  0.14831721E-06
+                YY=  0.14196564E+01         YZ=  0.14831721E-06         ZZ=  0.14196567E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.29911370E-12 Y=  0.29895722E-12 Z= -0.15553156E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.51030102E-11         XY=  0.56509547E-11         XZ= -0.14382183E-09
+                YY= -0.51059644E-11         YZ= -0.14382347E-09         ZZ= -0.29263774E-09
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.10382444E-08 Y= -0.10382444E-08 Z= -0.75982256E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.90664987E-08         XZ= -0.37991128E+00
+                YY= -0.10203168E+02         YZ= -0.37991128E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.60753817E-11 Y=  0.60754998E-11 Z=  0.19501216E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.11480886E-09         XZ=  0.18431798E-06
+                YY=  0.14196564E+01         YZ=  0.18431798E-06         ZZ=  0.14196568E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.31125283E-12 Y=  0.31110135E-12 Z=  0.60822463E-10   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.12598012E-10         XY=  0.58803985E-11         XZ=  0.57795017E-09
+                YY= -0.12600871E-10         YZ=  0.57794858E-09         ZZ=  0.13041018E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.13028623E-08 Y= -0.13028985E-08 Z= -0.75982258E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.10387664E-07         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.12471341E-10 Y=  0.12471303E-10 Z=  0.19767286E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.23567349E-09         XZ=  0.18688603E-06
+                YY=  0.14196564E+01         YZ=  0.18688604E-06         ZZ=  0.14196568E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.32238954E-12 Y=  0.32224560E-12 Z=  0.14687258E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.20628540E-10         XY=  0.60909232E-11         XZ=  0.13911224E-08
+                YY= -0.20631256E-10         YZ=  0.13911209E-08         ZZ=  0.31030896E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.14830308E-08 Y= -0.14829586E-08 Z= -0.75982257E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.11285568E-07         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.18401338E-10 Y=  0.18401111E-10 Z=  0.15989181E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.34773241E-09         XZ=  0.15123824E-06
+                YY=  0.14196564E+01         YZ=  0.15123824E-06         ZZ=  0.14196567E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.33287089E-12 Y=  0.33273582E-12 Z=  0.23541440E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.28482992E-10         XY=  0.62890760E-11         XZ=  0.22278309E-08
+                YY= -0.28485540E-10         YZ=  0.22278295E-08         ZZ=  0.49543779E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.15265559E-08 Y= -0.15266643E-08 Z= -0.75982255E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.11497810E-07         XZ= -0.37991128E+00
+                YY= -0.10203168E+02         YZ= -0.37991128E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.22785610E-10 Y=  0.22785185E-10 Z=  0.84427963E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.43058126E-09         XZ=  0.79972393E-07
+                YY=  0.14196564E+01         YZ=  0.79972388E-07         ZZ=  0.14196566E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.34306299E-12 Y=  0.34293774E-12 Z=  0.31912343E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.35441504E-10         XY=  0.64817716E-11         XZ=  0.30188731E-08
+                YY= -0.35443866E-10         YZ=  0.30188718E-08         ZZ=  0.67050474E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.14085867E-08 Y= -0.14086228E-08 Z= -0.75982251E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.10902063E-07         XZ= -0.37991126E+00
+                YY= -0.10203168E+02         YZ= -0.37991126E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.24820092E-10 Y=  0.24819508E-10 Z= -0.17958654E-08   Total=     0.00000000
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.46902589E-09         XZ= -0.16751501E-07
+                YY=  0.14196565E+01         YZ= -0.16751505E-07         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.35333118E-12 Y=  0.35321691E-12 Z=  0.39159021E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.40869868E-10         XY=  0.66759161E-11         XZ=  0.37036923E-08
+                YY= -0.40872022E-10         YZ=  0.37036911E-08         ZZ=  0.82212753E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.11411875E-08 Y= -0.11411875E-08 Z= -0.75982246E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.95582659E-08         XZ= -0.37991124E+00
+                YY= -0.10203168E+02         YZ= -0.37991124E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.24118670E-10 Y=  0.24118010E-10 Z= -0.12998775E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.45577025E-09         XZ= -0.12260917E-06
+                YY=  0.14196565E+01         YZ= -0.12260917E-06         ZZ=  0.14196562E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.36402516E-12 Y=  0.36392346E-12 Z=  0.44823464E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.44301340E-10         XY=  0.68781219E-11         XZ=  0.42390162E-08
+                YY= -0.44303255E-10         YZ=  0.42390152E-08         ZZ=  0.94074335E-08
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.77355419E-09 Y= -0.77351807E-09 Z= -0.75982242E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.77153623E-08         XZ= -0.37991122E+00
+                YY= -0.10203168E+02         YZ= -0.37991122E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.20777571E-10 Y=  0.20776929E-10 Z= -0.23080471E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.39263281E-09         XZ= -0.21789504E-06
+                YY=  0.14196565E+01         YZ= -0.21789505E-06         ZZ=  0.14196561E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.37546268E-12 Y=  0.37537340E-12 Z=  0.48693556E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.45493889E-10         XY=  0.70943771E-11         XZ=  0.46048065E-08
+                YY= -0.45495570E-10         YZ=  0.46048055E-08         ZZ=  0.10219240E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.38489884E-09 Y= -0.38486272E-09 Z= -0.75982240E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.57666431E-08         XZ= -0.37991120E+00
+                YY= -0.10203168E+02         YZ= -0.37991120E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.15351251E-10 Y=  0.15350726E-10 Z= -0.29986769E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.29009134E-09         XZ= -0.28319526E-06
+                YY=  0.14196565E+01         YZ= -0.28319526E-06         ZZ=  0.14196560E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.38791677E-12 Y=  0.38783955E-12 Z=  0.50827464E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.44454197E-10         XY=  0.73298392E-11         XZ=  0.48065617E-08
+                YY= -0.44455649E-10         YZ=  0.48065609E-08         ZZ=  0.10668852E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.64258167E-10 Y= -0.64222047E-10 Z= -0.75982239E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.41607541E-08         XZ= -0.37991120E+00
+                YY= -0.10203168E+02         YZ= -0.37991120E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.87455845E-11 Y=  0.87452781E-11 Z= -0.32103267E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.16526441E-09         XZ= -0.30324834E-06
+                YY=  0.14196565E+01         YZ= -0.30324834E-06         ZZ=  0.14196559E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.40161006E-12 Y=  0.40154597E-12 Z=  0.51535421E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.41424920E-10         XY=  0.75887290E-11         XZ=  0.48735970E-08
+                YY= -0.41426123E-10         YZ=  0.48735963E-08         ZZ=  0.10821064E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X=  0.11153975E-09 Y=  0.11153975E-09 Z= -0.75982240E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.32802829E-08         XZ= -0.37991121E+00
+                YY= -0.10203168E+02         YZ= -0.37991121E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.20492121E-11 Y=  0.20491935E-11 Z= -0.28602022E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.38724044E-10         XZ= -0.27022223E-06
+                YY=  0.14196565E+01         YZ= -0.27022223E-06         ZZ=  0.14196560E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.41671214E-12 Y=  0.41666178E-12 Z=  0.51322134E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.36837680E-10         XY=  0.78742466E-11         XZ=  0.48536023E-08
+                YY= -0.36838623E-10         YZ=  0.48536018E-08         ZZ=  0.10781280E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X=  0.93479560E-10 Y=  0.93515680E-10 Z= -0.75982244E-01   Total=     0.07598224
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.33708072E-08         XZ= -0.37991123E+00
+                YY= -0.10203168E+02         YZ= -0.37991123E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.36650804E-11 Y= -0.36647784E-11 Z= -0.19653876E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.69257387E-10         XZ= -0.18572218E-06
+                YY=  0.14196565E+01         YZ= -0.18572218E-06         ZZ=  0.14196561E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.43333995E-12 Y=  0.43330155E-12 Z=  0.50798873E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.31239742E-10         XY=  0.81885796E-11         XZ=  0.48043352E-08
+                YY= -0.31240458E-10         YZ=  0.48043348E-08         ZZ=  0.10677147E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.12447085E-09 Y= -0.12447085E-09 Z= -0.75982250E-01   Total=     0.07598225
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.44619921E-08         XZ= -0.37991125E+00
+                YY= -0.10203168E+02         YZ= -0.37991125E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.75320834E-11 Y= -0.75314616E-11 Z= -0.64580951E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.14233013E-09         XZ= -0.61072352E-07
+                YY=  0.14196565E+01         YZ= -0.61072346E-07         ZZ=  0.14196564E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.45155614E-12 Y=  0.45152890E-12 Z=  0.50579607E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.25206273E-10         XY=  0.85329212E-11         XZ=  0.47838081E-08
+                YY= -0.25206778E-10         YZ=  0.47838078E-08         ZZ=  0.10636863E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=     0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.50163993E-09 Y= -0.50163993E-09 Z= -0.75982257E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.63501579E-08         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.90440387E-11 Y= -0.90431357E-11 Z=  0.89246754E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.17089927E-09         XZ=  0.84261236E-07
+                YY=  0.14196565E+01         YZ=  0.84261247E-07         ZZ=  0.14196566E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.47137086E-12 Y=  0.47135434E-12 Z=  0.51177905E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.19252360E-10         XY=  0.89074663E-11         XZ=  0.48405465E-08
+                YY= -0.19252662E-10         YZ=  0.48405463E-08         ZZ=  0.10767645E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.95953806E-09 Y= -0.95961030E-09 Z= -0.75982263E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.86414015E-08         XZ= -0.37991132E+00
+                YY= -0.10203168E+02         YZ= -0.37991132E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.81320430E-11 Y= -0.81309406E-11 Z=  0.23912003E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.15366313E-09         XZ=  0.22587871E-06
+                YY=  0.14196565E+01         YZ=  0.22587872E-06         ZZ=  0.14196568E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.49274522E-12 Y=  0.49273710E-12 Z=  0.52921264E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.13758785E-10         XY=  0.93114625E-11         XZ=  0.50054938E-08
+                YY= -0.13758928E-10         YZ=  0.50054937E-08         ZZ=  0.11137825E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.13960529E-08 Y= -0.13961252E-08 Z= -0.75982269E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.10825300E-07         XZ= -0.37991135E+00
+                YY= -0.10203168E+02         YZ= -0.37991135E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.51655199E-11 Y= -0.51643216E-11 Z=  0.35853429E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY= -0.97603051E-10         XZ=  0.33873377E-06
+                YY=  0.14196564E+01         YZ=  0.33873378E-06         ZZ=  0.14196570E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.51559057E-12 Y=  0.51558908E-12 Z=  0.55896914E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.89234019E-11         XY=  0.97432395E-11         XZ=  0.52868912E-08
+                YY= -0.89234187E-11         YZ=  0.52868911E-08         ZZ=  0.11765539E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16828488E-08 Y= -0.16829210E-08 Z= -0.75982273E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12259316E-07         XZ= -0.37991137E+00
+                YY= -0.10203168E+02         YZ= -0.37991137E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.87035325E-12 Y= -0.86915645E-12 Z=  0.42531848E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY= -0.16436175E-10         XZ=  0.40187174E-06
+                YY=  0.14196564E+01         YZ=  0.40187175E-06         ZZ=  0.14196571E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.53976242E-12 Y=  0.53976616E-12 Z=  0.59937487E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.47466127E-11         XY=  0.10200071E-10         XZ=  0.56689232E-08
+                YY= -0.47465299E-11         YZ=  0.56689232E-08         ZZ=  0.12615730E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16707485E-08 Y= -0.16707846E-08 Z= -0.75982275E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12198762E-07         XZ= -0.37991138E+00
+                YY= -0.10203168E+02         YZ= -0.37991138E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.38177471E-11 Y=  0.38188559E-11 Z=  0.42613898E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196564E+01         XY=  0.72155287E-10         XZ=  0.40268633E-06
+                YY=  0.14196564E+01         YZ=  0.40268634E-06         ZZ=  0.14196572E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.56504123E-12 Y=  0.56504834E-12 Z=  0.64647804E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.10528009E-11         XY=  0.10677803E-10         XZ=  0.61142484E-08
+                YY= -0.10526540E-11         YZ=  0.61142485E-08         ZZ=  0.13605739E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16568782E-08 Y= -0.16569144E-08 Z= -0.75982275E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12127199E-07         XZ= -0.37991138E+00
+                YY= -0.10203168E+02         YZ= -0.37991138E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.79100904E-11 Y=  0.79110593E-11 Z=  0.35654969E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.14948805E-09         XZ=  0.33696830E-06
+                YY=  0.14196565E+01         YZ=  0.33696831E-06         ZZ=  0.14196570E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.59119844E-12 Y=  0.59120741E-12 Z=  0.69477954E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.24773728E-11         XY=  0.11172120E-10         XZ=  0.65709055E-08
+                YY=  0.24775554E-11         YZ=  0.65709056E-08         ZZ=  0.14620595E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16443445E-08 Y= -0.16444167E-08 Z= -0.75982272E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12061752E-07         XZ= -0.37991137E+00
+                YY= -0.10203168E+02         YZ= -0.37991137E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.10576467E-10 Y=  0.10577272E-10 Z=  0.22606961E-07   Total=     0.00000002
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.19987371E-09         XZ=  0.21370485E-06
+                YY=  0.14196565E+01         YZ=  0.21370486E-06         ZZ=  0.14196568E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.61793768E-12 Y=  0.61794812E-12 Z=  0.73814074E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.62030193E-11         XY=  0.11677432E-10         XZ=  0.69808895E-08
+                YY=  0.62032300E-11         YZ=  0.69808896E-08         ZZ=  0.15531946E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16352060E-08 Y= -0.16352060E-08 Z= -0.75982269E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12012820E-07         XZ= -0.37991135E+00
+                YY= -0.10203168E+02         YZ= -0.37991135E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.11285767E-10 Y=  0.11286421E-10 Z=  0.55562581E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.21327612E-09         XZ=  0.52604996E-07
+                YY=  0.14196565E+01         YZ=  0.52605003E-07         ZZ=  0.14196566E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.64491400E-12 Y=  0.64492479E-12 Z=  0.77082936E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.10454834E-10         XY=  0.12187214E-10         XZ=  0.72900349E-08
+                YY=  0.10455051E-10         YZ=  0.72900350E-08         ZZ=  0.16219927E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16320997E-08 Y= -0.16320997E-08 Z= -0.75982264E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.11993859E-07         XZ= -0.37991133E+00
+                YY= -0.10203168E+02         YZ= -0.37991133E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.98959419E-11 Y=  0.98964914E-11 Z= -0.12610732E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.18701123E-09         XZ= -0.11905986E-06
+                YY=  0.14196565E+01         YZ= -0.11905985E-06         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.67174039E-12 Y=  0.67174918E-12 Z=  0.78851671E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.15456613E-10         XY=  0.12694140E-10         XZ=  0.74574372E-08
+                YY=  0.15456794E-10         YZ=  0.74574373E-08         ZZ=  0.16593988E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16361451E-08 Y= -0.16361090E-08 Z= -0.75982260E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12011291E-07         XZ= -0.37991131E+00
+                YY= -0.10203168E+02         YZ= -0.37991131E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.66688903E-11 Y=  0.66693912E-11 Z= -0.28697379E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.12602834E-09         XZ= -0.27108374E-06
+                YY=  0.14196565E+01         YZ= -0.27108373E-06         ZZ=  0.14196560E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.69799616E-12 Y=  0.69800219E-12 Z=  0.78905919E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.21263999E-10         XY=  0.13190276E-10         XZ=  0.74628380E-08
+                YY=  0.21264128E-10         YZ=  0.74628381E-08         ZZ=  0.16609230E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16457532E-08 Y= -0.16457893E-08 Z= -0.75982258E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12057777E-07         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.22094467E-11 Y=  0.22099708E-11 Z= -0.39757317E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.41757272E-10         XZ= -0.37562248E-06
+                YY=  0.14196565E+01         YZ= -0.37562247E-06         ZZ=  0.14196558E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.72324470E-12 Y=  0.72324720E-12 Z=  0.77293122E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.27730940E-10         XY=  0.13667371E-10         XZ=  0.73107154E-08
+                YY=  0.27731002E-10         YZ=  0.73107154E-08         ZZ=  0.16275449E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16585759E-08 Y= -0.16585759E-08 Z= -0.75982256E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12120777E-07         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.26580722E-11 Y= -0.26574513E-11 Z= -0.43626582E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.50224560E-10         XZ= -0.41222266E-06
+                YY=  0.14196565E+01         YZ= -0.41222265E-06         ZZ=  0.14196558E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.74704813E-12 Y=  0.74704587E-12 Z=  0.74323833E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.34509803E-10         XY=  0.14117145E-10         XZ=  0.70304077E-08
+                YY=  0.34509776E-10         YZ=  0.70304077E-08         ZZ=  0.15657418E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16720127E-08 Y= -0.16720127E-08 Z= -0.75982257E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12188364E-07         XZ= -0.37991129E+00
+                YY= -0.10203168E+02         YZ= -0.37991129E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.70509059E-11 Y= -0.70501281E-11 Z= -0.39331576E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.13323561E-09         XZ= -0.37167772E-06
+                YY=  0.14196565E+01         YZ= -0.37167771E-06         ZZ=  0.14196558E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.76898474E-12 Y=  0.76897779E-12 Z=  0.70530396E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.41086133E-10         XY=  0.14531643E-10         XZ=  0.66722097E-08
+                YY=  0.41086018E-10         YZ=  0.66722096E-08         ZZ=  0.14866264E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16825598E-08 Y= -0.16825598E-08 Z= -0.75982260E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12243413E-07         XZ= -0.37991131E+00
+                YY= -0.10203168E+02         YZ= -0.37991131E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.10195169E-10 Y= -0.10194203E-10 Z= -0.27297349E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.19265177E-09         XZ= -0.25799733E-06
+                YY=  0.14196565E+01         YZ= -0.25799731E-06         ZZ=  0.14196560E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.78867152E-12 Y=  0.78866035E-12 Z=  0.66589223E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.46843215E-10         XY=  0.14903629E-10         XZ=  0.63000291E-08
+                YY=  0.46843020E-10         YZ=  0.63000290E-08         ZZ=  0.14043238E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16875083E-08 Y= -0.16874722E-08 Z= -0.75982265E-01   Total=     0.07598226
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12270019E-07         XZ= -0.37991133E+00
+                YY= -0.10203168E+02         YZ= -0.37991133E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.11567715E-10 Y= -0.11566559E-10 Z= -0.93145882E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.21858733E-09         XZ= -0.88096601E-07
+                YY=  0.14196565E+01         YZ= -0.88096589E-07         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.80578042E-12 Y=  0.80576437E-12 Z=  0.63219014E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.51147073E-10         XY=  0.15226894E-10         XZ=  0.59817699E-08
+                YY=  0.51146787E-10         YZ=  0.59817697E-08         ZZ=  0.13338458E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732854E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16864970E-08 Y= -0.16864247E-08 Z= -0.75982270E-01   Total=     0.07598227
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12266961E-07         XZ= -0.37991136E+00
+                YY= -0.10203168E+02         YZ= -0.37991136E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.10986537E-10 Y= -0.10985207E-10 Z=  0.11734097E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.20760300E-09         XZ=  0.11078926E-06
+                YY=  0.14196565E+01         YZ=  0.11078928E-06         ZZ=  0.14196567E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.82005144E-12 Y=  0.82003021E-12 Z=  0.61070755E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.53439033E-10         XY=  0.15496528E-10         XZ=  0.57789383E-08
+                YY=  0.53438648E-10         YZ=  0.57789381E-08         ZZ=  0.12887938E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668175E+02
+                YY=  0.54831143E+02         YZ=  0.61668175E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16802481E-08 Y= -0.16802481E-08 Z= -0.75982276E-01   Total=     0.07598228
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12237908E-07         XZ= -0.37991139E+00
+                YY= -0.10203168E+02         YZ= -0.37991139E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.86340851E-11 Y= -0.86326180E-11 Z=  0.32345451E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.16314680E-09         XZ=  0.30555778E-06
+                YY=  0.14196565E+01         YZ=  0.30555780E-06         ZZ=  0.14196570E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.83130442E-12 Y=  0.83127849E-12 Z=  0.60627351E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.53321671E-10         XY=  0.15709134E-10         XZ=  0.57371606E-08
+                YY=  0.53321198E-10         YZ=  0.57371603E-08         ZZ=  0.12792622E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16715792E-08 Y= -0.16715792E-08 Z= -0.75982282E-01   Total=     0.07598228
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12196316E-07         XZ= -0.37991141E+00
+                YY= -0.10203168E+02         YZ= -0.37991141E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.50108814E-11 Y= -0.50093371E-11 Z=  0.48986555E-07   Total=     0.00000005
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.94677427E-10         XZ=  0.46282353E-06
+                YY=  0.14196565E+01         YZ=  0.46282355E-06         ZZ=  0.14196573E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.83944337E-12 Y=  0.83941279E-12 Z=  0.62128562E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.50624533E-10         XY=  0.15862894E-10         XZ=  0.58790898E-08
+                YY=  0.50623972E-10         YZ=  0.58790895E-08         ZZ=  0.13102698E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16626214E-08 Y= -0.16626575E-08 Z= -0.75982286E-01   Total=     0.07598229
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12152277E-07         XZ= -0.37991143E+00
+                YY= -0.10203168E+02         YZ= -0.37991143E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X= -0.83039038E-12 Y= -0.82883901E-12 Z=  0.58705732E-07   Total=     0.00000006
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY= -0.15677532E-10         XZ=  0.55469124E-06
+                YY=  0.14196565E+01         YZ=  0.55469125E-06         ZZ=  0.14196574E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.84445630E-12 Y=  0.84442241E-12 Z=  0.65533534E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.45439076E-10         XY=  0.15957593E-10         XZ=  0.62008655E-08
+                YY=  0.45438453E-10         YZ=  0.62008651E-08         ZZ=  0.13809765E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16542053E-08 Y= -0.16542053E-08 Z= -0.75982288E-01   Total=     0.07598229
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12108849E-07         XZ= -0.37991144E+00
+                YY= -0.10203168E+02         YZ= -0.37991144E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.31230537E-11 Y=  0.31245457E-11 Z=  0.59658392E-07   Total=     0.00000006
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.59031165E-10         XZ=  0.56372547E-06
+                YY=  0.14196565E+01         YZ=  0.56372549E-06         ZZ=  0.14196575E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.84641494E-12 Y=  0.84637876E-12 Z=  0.70526896E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.38117092E-10         XY=  0.15994584E-10         XZ=  0.66726903E-08
+                YY=  0.38116426E-10         YZ=  0.66726899E-08         ZZ=  0.14848100E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16494013E-08 Y= -0.16494013E-08 Z= -0.75982288E-01   Total=     0.07598229
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12083160E-07         XZ= -0.37991145E+00
+                YY= -0.10203168E+02         YZ= -0.37991145E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.61450232E-11 Y=  0.61463891E-11 Z=  0.51455338E-07   Total=     0.00000005
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.11613691E-09         XZ=  0.48624296E-06
+                YY=  0.14196565E+01         YZ=  0.48624297E-06         ZZ=  0.14196573E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.84546781E-12 Y=  0.84542981E-12 Z=  0.76567404E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.29231777E-10         XY=  0.15976668E-10         XZ=  0.72434256E-08
+                YY=  0.29231077E-10         YZ=  0.72434252E-08         ZZ=  0.16104805E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16506655E-08 Y= -0.16506655E-08 Z= -0.75982287E-01   Total=     0.07598229
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12087748E-07         XZ= -0.37991144E+00
+                YY= -0.10203168E+02         YZ= -0.37991144E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.77412307E-11 Y=  0.77424218E-11 Z=  0.35269422E-07   Total=     0.00000004
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.14629923E-09         XZ=  0.33332137E-06
+                YY=  0.14196565E+01         YZ=  0.33332138E-06         ZZ=  0.14196571E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.84183060E-12 Y=  0.84179238E-12 Z=  0.82971493E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.19507137E-10         XY=  0.15907933E-10         XZ=  0.78484860E-08
+                YY=  0.19506432E-10         YZ=  0.78484856E-08         ZZ=  0.17437254E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16562642E-08 Y= -0.16563364E-08 Z= -0.75982284E-01   Total=     0.07598228
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12113743E-07         XZ= -0.37991142E+00
+                YY= -0.10203168E+02         YZ= -0.37991142E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.77127571E-11 Y=  0.77137417E-11 Z=  0.13676372E-07   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.14575920E-09         XZ=  0.12929614E-06
+                YY=  0.14196565E+01         YZ=  0.12929616E-06         ZZ=  0.14196567E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.83577878E-12 Y=  0.83574147E-12 Z=  0.89018808E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.97259036E-11         XY=  0.15793578E-10         XZ=  0.84198110E-08
+                YY=  0.97252163E-11         YZ=  0.84198106E-08         ZZ=  0.18695125E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16644274E-08 Y= -0.16644274E-08 Z= -0.75982280E-01   Total=     0.07598228
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12152888E-07         XZ= -0.37991140E+00
+                YY= -0.10203168E+02         YZ= -0.37991140E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.61811988E-11 Y=  0.61819581E-11 Z= -0.97490575E-08   Total=     0.00000001
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.11681481E-09         XZ= -0.92055188E-07
+                YY=  0.14196565E+01         YZ= -0.92055179E-07         ZZ=  0.14196563E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.82763975E-12 Y=  0.82760308E-12 Z=  0.94062816E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX=  0.62962586E-12         XY=  0.15639779E-10         XZ=  0.88963151E-08
+                YY=  0.62895043E-12         YZ=  0.88963147E-08         ZZ=  0.19743505E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
+  Reference Point [Bohr]              0.00000000      0.00000000      0.00000000
+  Charges
+    Electronic=    -12.00000000    Core=    12.00000000    Total=    -0.00000000
+  Dipoles are based on the traditional operator.
+  Dipole moment [Debye]
+    X= -0.16733130E-08 Y= -0.16733491E-08 Z= -0.75982276E-01   Total=     0.07598228
+  Quadrupole moment [Debye*Angstrom]
+                XX= -0.10203168E+02         XY= -0.12195092E-07         XZ= -0.37991138E+00
+                YY= -0.10203168E+02         YZ= -0.37991138E+00         ZZ= -0.13078562E+02
+  Expectation value of momentum operator [a. u.]
+    X=  0.35504849E-11 Y=  0.35510299E-11 Z= -0.31018005E-07   Total=     0.00000003
+  Expectation value of quadrupole operator in vel. repr. [a. u.]
+                XX=  0.14196565E+01         XY=  0.67099517E-10         XZ= -0.29303997E-06
+                YY=  0.14196565E+01         YZ= -0.29303996E-06         ZZ=  0.14196560E+01
+  Expectation value of [r,V_nl] [a. u.]
+    X=  0.81778287E-12 Y=  0.81774640E-12 Z=  0.97629019E-09   Total=     0.00000000
+  Expectation value of [rr,V_nl] [a. u.]
+                XX= -0.71739461E-11         XY=  0.15453512E-10         XZ=  0.92331690E-08
+                YY= -0.71746177E-11         YZ=  0.92331686E-08         ZZ=  0.20483403E-07
+  Expectation value of r x V_nl x r [a. u.]
+                XX=  0.54831143E+02         XY=  0.54803374E+02         XZ=  0.61668174E+02
+                YY=  0.54831143E+02         YZ=  0.61668174E+02         ZZ=  0.68670388E+02
+  Expectation value of r x r x V_nl + V_nl x r x r [a. u.]
+                XX=  0.10974448E+03         XY=  0.10960675E+03         XZ=  0.12262565E+03
+                YY=  0.10974448E+03         YZ=  0.12262565E+03         ZZ=  0.13732853E+03
