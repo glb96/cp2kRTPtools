@@ -11,6 +11,4 @@ To do so, you can use pip. For instance, assuming that python3 is the executable
 A tutorial is available in the Tutorial folder (jupyter notebook) along with some typical files.
 Another notebook, usefull_commands, provides more tips about real time file analysis.
 
-
-
-Authors: Guillaume Le Breton
+ 
