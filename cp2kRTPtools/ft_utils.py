@@ -26,14 +26,14 @@ def creates_ft_authorized_omega(L_time, omega_min, omega_max, N_omega, warning_m
     Note that the time and omega provided should have the same (inversed) unit!!!
     '''
     delta_omega = 2*np.pi/(L_time[-1]-L_time[0]) #in (a.u.)^(-1)
-    
-    L_omega = np.linspace(omega_min, omega_max, N_omega)
-    L_omega = np.array([L_omega[k]//delta_omega for k in range(len(L_omega))]) # the frequency close to one desired which fullfies total_time*omega = N*2*pi
-    L_omega = np.unique(L_omega) # if too many frequencies are required compare to the maximal precision
+    omega_start = (omega_min // delta_omega) * delta_omega
+    omega_end = ((omega_max // delta_omega) + 1) * delta_omega
+    L_omega = np.arange(omega_start, omega_end + 0.5*delta_omega, delta_omega) # the frequency close to one desired which fullfies total_time*omega = N*2*pi
     if warning_msg:
-        if len(L_omega) != N_omega:
+        if len(L_omega) < N_omega:
             print('WARNING: you have asked ' + str(N_omega) + ' frequencies within:[' + str(omega_min) + ', ' + str(omega_max) + '] but the amount of time in this sample is too small to allow enough frequencies. Instead we can sample ' + str(len(L_omega)) + ' frequencies.')
-    L_omega = L_omega*delta_omega 
+        elif len(L_omega) > N_omega:
+            print('WARNING: you have asked ' + str(N_omega) + ' frequencies within:[' + str(omega_min) + ', ' + str(omega_max) + '] but the amount of time in this sample is larger so that we can sample more frequencies. Instead we  sample ' + str(len(L_omega)) + ' frequencies.')
     return(L_omega)
 
 #########################################################################
