@@ -26,6 +26,7 @@ def creates_ft_authorized_omega(L_time, omega_min, omega_max, N_omega, warning_m
     Note that the time and omega provided should have the same (inversed) unit!!!
     '''
     delta_omega = 2*np.pi/(L_time[-1]-L_time[0]) #in (a.u.)^(-1)
+    
     omega_start = (omega_min // delta_omega) * delta_omega
     omega_end = ((omega_max // delta_omega) + 1) * delta_omega
     L_omega = np.arange(omega_start, omega_end + 0.5*delta_omega, delta_omega) # the frequency close to one desired which fullfies total_time*omega = N*2*pi
@@ -52,16 +53,11 @@ def fourier_transform(L_time, L_f, L_omega):
     Hence, if one want to perform a smoothing, it is easier to call this function with the 
     smoothed function directly. Note that some extra normalization may be needed if a damping is applied.
     '''
-    N_omega = len(L_omega)
-    N_t = len(L_time)
-    delta_t = L_time[1]-L_time[0]
-    L_ft = np.zeros(N_omega, dtype=complex)
-    for k in range(0, N_omega, 1):
-        omega = L_omega[k]
-        for t in range(0, N_t, 1):
-            L_ft[k] += L_f[t]*(np.cos(omega*L_time[t])+1j*np.sin(omega*L_time[t]))
-    L_ft = L_ft/N_t # *delta_t/total_time = 1/N_t.
-    return(L_ft)
+    L_time = np.array(L_time)
+    L_f = np.array(L_f)
+    exp_matrix = np.exp(1j * np.outer(L_omega, L_time))  # shape (N_omega, N_t)
+    L_ft = exp_matrix @ L_f  # matrix product
+    return(L_ft/len(L_time))
 
 #########################################################################
 #########################################################################
@@ -132,7 +128,7 @@ def perform_ft(L_time, L_f, L_damp, omega_min, omega_max, N_omega, omega_precisi
         L_ft = np.zeros((len(L_omega), M), dtype=complex)
     elif omega_precision == -1:
         delta_t = L_time[1]-L_time[0]
-        n_max_dump = int(2*np.pi/(delta_t*omega_max)) # the nbr of point to remove until we recover the same authorized frequency for the max frequency required
+        n_max_dump = int(2*np.pi/(delta_t*omega_min)) # the nbr of point to remove until we recover the same authorized frequency for the min frequency required
         print('The frequency range will be sampled ' + str(n_max_dump) + ' times.')
      
     
@@ -154,7 +150,7 @@ def perform_ft(L_time, L_f, L_damp, omega_min, omega_max, N_omega, omega_precisi
                     L_ft_i = np.array(L_ft_temp)
                 else:
                     L_omega_temp = creates_ft_authorized_omega(L_time[:-n_dump], omega_min, omega_max, N_omega, warning_msg=False)
-                    L_ft_temp = fourier_transform(L_time[:-n_dump],  L_f[:,i]*L_damp, L_omega_temp)
+                    L_ft_temp = fourier_transform(L_time[:-n_dump],  L_f[:-n_dump,i]*L_damp[:-n_dump], L_omega_temp)
                     L_omega = np.append(L_omega, L_omega_temp)
                     ind =  np.argsort(L_omega, axis=0)
                     L_omega = np.take_along_axis(L_omega, ind, axis=0)
